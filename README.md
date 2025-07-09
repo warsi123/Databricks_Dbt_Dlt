@@ -10,7 +10,7 @@ Developed parameterized and reusable workflows in Databricks with notebook contr
 
 Created and orchestrated Delta Live Tables (DLT) pipelines using Lakehouse declarative pipelines, enabling automated and reliable ETL processing with built-in monitoring and error handling.
 
-Implemented Slowly Changing Dimensions (SCD Type 2) automation for handling historical changes in dimension data, improving accuracy of historical reporting by 100%.
+Implemented Slowly Changing Dimensions (SCD Type 1) automation for handling historical changes in dimension data, improving accuracy of historical reporting by 100%.
 
 Modeled Fact and Dimension tables for a star schema-based Dimensional Data Model, improving data query performance by 60% in downstream reporting tools.
 
